@@ -1,0 +1,27 @@
+{
+  "name": "project-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenhoangnhan2102/Project-Fullstack.git"
+  },
+  "author": "Nguyen Hoang Nhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenhoangnhan2102/Project-Fullstack/issues"
+  },
+  "homepage": "https://github.com/nguyenhoangnhan2102/Project-Fullstack#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.7",
+    "nodemon": "^3.1.0"
+  }
+}
